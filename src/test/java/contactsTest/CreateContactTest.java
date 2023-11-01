@@ -129,7 +129,7 @@ public class CreateContactTest extends BaseClass
 	public void demo()
 	{
 		System.out.println("demo");
-		sysout.out.println("updation");
+		System.out.println("updation");
 	}
 
 }
